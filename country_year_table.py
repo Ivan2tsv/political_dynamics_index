@@ -17,8 +17,8 @@ def calculate_political_index(input_file):
 
     # Веса показателей
     indicators = {
-        'GDP': 0.25,
-        'Exports': 0.10,
+        'GDP': 0.20,
+        'Exports': 0.05,
         'Imports': 0.05,
         'Trade_Balance': 0.10,
         'Per_capita_GNI': 0.15,

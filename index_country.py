@@ -42,8 +42,8 @@ def calculate_comprehensive_index(input_file, output_file):
         # Список всех показателей для индекса с весами
         indicators = {
             # Экономические показатели (40%)
-            'GDP': 0.25,
-            'Exports': 0.10,
+            'GDP': 0.20,
+            'Exports': 0.05,
             'Imports': 0.05,
             'Trade_Balance': 0.10,
 
